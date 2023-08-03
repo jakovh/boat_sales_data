@@ -20,7 +20,7 @@ The dataset is outdated since it was neveer updated.
 
 ## Deliverables
 
-A deliverable of this project comes in the form of an interactive (Tableau Storyboard)[https://public.tableau.com/views/Boatsales/BoatSalesAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link].
+A deliverable of this project comes in the form of an interactive [Tableau Storyboard](https://public.tableau.com/views/Boatsales/BoatSalesAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
 
 ## Tools Used
 

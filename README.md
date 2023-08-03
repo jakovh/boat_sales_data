@@ -1,4 +1,4 @@
-# boat_sales_dataw
+# boat_sales_data
 
 A boat selling company wants to discover new trends in a boat market.
 Since the company is restocking its inventory, they would like to know the characteristics of popular boats.

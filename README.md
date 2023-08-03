@@ -13,10 +13,10 @@ The dataset is outdated since it was neveer updated.
 
 ## Project folder structure
 
-01 Project Management - contains a project brief.
-02 Data - contains original and prepared data.
-03 Scripts - contains all python scripts which include all code for loading, cleaning, and analysing data.
-04 Analysis - contains all produced visualizations during the analysis phase.
+01. Project Management - contains a project brief.
+02. Data - contains original and prepared data.
+03. Scripts - contains all python scripts which include all code for loading, cleaning, and analysing data.
+04. Analysis - contains all produced visualizations during the analysis phase.
 
 ## Deliverables
 
